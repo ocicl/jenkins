@@ -5,5 +5,5 @@ UNFINISHED Common Lisp bindings for Jenkins' REST API
 |---------+--------------------------------------------|
 | source  | git:https://github.com/scymtym/jenkins.git |
 | commit  | a1d37ab                                    |
-| systems | (jenkins.api)                              |
+| systems | jenkins.api                                |
 |---------+--------------------------------------------|
